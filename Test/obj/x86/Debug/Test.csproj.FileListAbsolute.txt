@@ -1,0 +1,336 @@
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\Test.exe.config
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\Test.exe
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\Test.pdb
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll.config
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.xml
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\admin\Desktop\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CopyComplete
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\Desktop\TestMotion (1)\Test\obj\x86\Debug\Test.pdb
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.exe.config
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.exe
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.pdb
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll.config
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.xml
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CopyComplete
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\Desktop\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.pdb
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.exe.config
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.exe
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\Test.pdb
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll.config
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.xml
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CopyComplete
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\3D Objects\새 폴더\도라에몽\TestMotion (1)\Test\obj\x86\Debug\Test.pdb
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcp120.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcr120.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_core2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_video2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcp120.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcr120.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_core2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_video2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\Test.exe.config
+G:\TestMotion (1)\Test\bin\x86\Debug\Test.exe
+G:\TestMotion (1)\Test\bin\x86\Debug\Test.pdb
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.xml
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll.config
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.xml
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll.config
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll.config
+G:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.xml
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.Form1.resources
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CopyComplete
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.exe
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.pdb
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcp120.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\msvcr120.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_core2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_video2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcp120.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\msvcr120.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_core2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_video2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\Test.exe.config
+H:\TestMotion (1)\Test\bin\x86\Debug\Test.exe
+H:\TestMotion (1)\Test\bin\x86\Debug\Test.pdb
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.xml
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.dll.config
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.xml
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Blob.dll.config
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll.config
+H:\TestMotion (1)\Test\bin\x86\Debug\OpenCvSharp.Extensions.xml
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.SuggestedBindingRedirects.cache
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.Form1.resources
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.GenerateResource.cache
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.CopyComplete
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.exe
+H:\TestMotion (1)\Test\obj\x86\Debug\Test.pdb
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.AssemblyReference.cache
+G:\TestMotion (1)\Test\obj\x86\Debug\Test.csproj.SuggestedBindingRedirects.cache
